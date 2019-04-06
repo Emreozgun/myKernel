@@ -1,4 +1,4 @@
-# myKernel
+# MyKernel
 It is my shell that named gtushell.You can run it with Makefile on terminal.
 Commands to run : make all && ./gtushell
 My shell support the following commands:
