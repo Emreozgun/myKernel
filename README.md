@@ -23,13 +23,10 @@
 ***SOME PICTURE FROM SHELL***
 
 ![Screenshot from 2020-01-21 18-42-31](https://user-images.githubusercontent.com/30092986/72819411-4470a400-3c7e-11ea-9318-5e1f3927d31e.png)
-**GIF WHILE TRY SOMETHING**
-
-![computer_winner_gif](https://user-images.githubusercontent.com/30092986/61189238-53551900-a693-11e9-88de-9263d8ace039.gif)
 
 **When I write the code :)**
 
-![ttystudio GIF](https://media.giphy.com/media/KfwyWfTwMu1FG0XhO8/source.gif)
+![ttystudio GIF](https://giphy.com/gifs/wikitude-augmented-reality-penguin-linux-4Zgy9QqzWU8C3ugvCa/fullscreen)
 
 ---
 
