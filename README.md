@@ -6,11 +6,11 @@
 
 > This project is an application that runs through the console.
 
-![Badges](https://img.shields.io/badge/c%2B%2B--red.svg) 
-![Badges](https://img.shields.io/badge/oop--blue.svg)
-![Badges](https://img.shields.io/badge/Coding-forGame-orange.svg)
-![Badges](https://img.shields.io/badge/artificial%20-intelligence-purple.svg)
+![Badges](https://img.shields.io/badge/linux-shell-green) 
+![Badges](https://img.shields.io/badge/shell-commands-lightgrey)
 ![Badges](https://img.shields.io/badge/love-coding-black.svg)
+![Badges](https://img.shields.io/badge/core-dumped-red)
+![Badges](https://img.shields.io/badge/lsf-wc-yellow)
 ![Badges](https://img.shields.io/badge/build-passing-succes.svg)
 ![Badges](https://img.shields.io/badge/test-success-success.svg)
 ![Badges](https://img.shields.io/badge/computer-science-critical.svg)
