@@ -26,7 +26,7 @@
 
 **When I write the code :)**
 
-<a href = "https://giphy.com/gifs/4Zgy9QqzWU8C3ugvCa/html5" /> </a>
+![ttystudio GIF](https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif)
 
 ---
 
