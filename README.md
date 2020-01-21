@@ -1,5 +1,4 @@
-![cf4_c++_background](https://user-images.githubusercontent.com/30092986/61188720-06217900-a68c-11e9-9703-aaddb5032b41.png)
-
+![Screenshot from 2020-01-21 18-42-31](https://user-images.githubusercontent.com/30092986/72819411-4470a400-3c7e-11ea-9318-5e1f3927d31e.png)
 # MyShell
 
 > It is my shell that named gtushell.You can run it with Makefile on terminal.Shell supports some basic commands in linux shell.You can find these commands - [Features](#features) . 
