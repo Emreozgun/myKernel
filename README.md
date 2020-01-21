@@ -1,4 +1,4 @@
-![Screenshot from 2020-01-21 18-42-31](https://user-images.githubusercontent.com/30092986/72819411-4470a400-3c7e-11ea-9318-5e1f3927d31e.png)
+
 # MyShell
 
 > It is my shell that named gtushell.You can run it with Makefile on terminal.Shell supports some basic commands in linux shell.You can find these commands - [Features](#features) . 
@@ -22,11 +22,7 @@
 
 ***SOME PICTURE FROM SHELL***
 
-![c++_resim1](https://user-images.githubusercontent.com/30092986/61188982-9f05c380-a68f-11e9-953a-0704a5341122.png)
-
-![computer_winner](https://user-images.githubusercontent.com/30092986/61189139-c3fb3600-a691-11e9-8b0f-97a7830c934e.png)
-> The computer won against me :)
-
+![Screenshot from 2020-01-21 18-42-31](https://user-images.githubusercontent.com/30092986/72819411-4470a400-3c7e-11ea-9318-5e1f3927d31e.png)
 **GIF WHILE TRY SOMETHING**
 
 ![computer_winner_gif](https://user-images.githubusercontent.com/30092986/61189238-53551900-a693-11e9-88de-9263d8ace039.gif)
