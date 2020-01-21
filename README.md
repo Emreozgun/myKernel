@@ -26,7 +26,7 @@
 
 **When I write the code :)**
 
-![ttystudio GIF](https://giphy.com/gifs/wikitude-augmented-reality-penguin-linux-4Zgy9QqzWU8C3ugvCa/fullscreen)
+![ttystudio GIF](https://giphy.com/gifs/4Zgy9QqzWU8C3ugvCa/html5)
 
 ---
 
