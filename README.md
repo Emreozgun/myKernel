@@ -24,7 +24,7 @@
 
 ![Screenshot from 2020-01-21 18-42-31](https://user-images.githubusercontent.com/30092986/72819411-4470a400-3c7e-11ea-9318-5e1f3927d31e.png)
 
-**When I write the code :)**
+**I felt myself like linux penguins when I'm writing code.**
 
 ![ttystudio GIF](https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif)
 
