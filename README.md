@@ -83,9 +83,9 @@
   > That command which will exit the shell.
 
   ### Other features 
-  > When the user types !n , the n-th previous command will run.(Its like up and down arrow keys)
-  > Each command supports have a single pipe "|" or a single redirection operator > <.
-  > You can use Ctr-C to exit from gtushell
+  - When the user types !n , the n-th previous command will run (Its like up and down arrow keys).
+  - Each command supports have a single pipe "|" or a single redirection operator > <.
+  - You can use Ctr-C to exit from gtushell.
 
 
   
