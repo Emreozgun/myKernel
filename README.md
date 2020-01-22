@@ -24,10 +24,6 @@
 
 ![Screenshot from 2020-01-21 18-42-31](https://user-images.githubusercontent.com/30092986/72819411-4470a400-3c7e-11ea-9318-5e1f3927d31e.png)
 
-**I felt myself like linux penguins when I'm writing code.**
-
-![ttystudio GIF](https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif)
-
 ---
 
 ## Table of Contents
@@ -78,6 +74,11 @@
   - When the user types !n , the n-th previous command will run (Its like up and down arrow keys).
   - Each command supports have a single pipe "|" or a single redirection operator > <.
   - You can use Ctr-C to exit from gtushell.
+
+
+**I felt myself like linux penguins when I'm writing code.**
+
+![ttystudio GIF](https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif)
 
 
   
