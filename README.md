@@ -76,7 +76,7 @@
   - You can use Ctr-C to exit from gtushell.
 
 
-**I felt myself like linux penguins when I'm writing code.**
+**I like linux penguins :)**
 
 ![ttystudio GIF](https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif)
 
